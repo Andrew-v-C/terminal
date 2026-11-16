@@ -57,11 +57,26 @@
                 "hidden": false,
                 "name": "PowerShell",
                 "source": "Windows.Terminal.PowershellCore"
+            },
+            {
+                "guid": "{0c9925f4-7288-5fbc-9565-e053a22c146e}",
+                "hidden": false,
+                "name": "Developer Command Prompt for VS 18",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{aa36ac93-ada1-5ac5-a886-436fb062ba2e}",
+                "hidden": false,
+                "name": "Developer PowerShell for VS 18",
+                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
     "schemes": [],
     "searchWebDefaultQueryUrl": "https://www.google.com/search?q=%22%s%22",
     "themes": [],
+    "warning.confirmCloseAllTabs": false,
+    "warning.inputService": false,
+    "warning.largePaste": true,
     "windowingBehavior": "useExisting"
 }
